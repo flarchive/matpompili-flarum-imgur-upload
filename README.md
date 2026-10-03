@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of matpompili/flarum-imgur-upload.** Not for installation: use [Packagist](https://packagist.org/packages/matpompili/flarum-imgur-upload) or the [upstream repository](https://github.com/matpompili/flarum-imgur-upload).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/matpompili-flarum-imgur-upload/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^0.1.0-beta.3`
+**6** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/matpompili-flarum-imgur-upload/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^0.1.0-beta.3`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2015-12-20 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/matpompili-flarum-imgur-upload/tree/archive/v1.0.0) |
+| `v1.0.0-beta` | 2015-12-05 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/matpompili-flarum-imgur-upload/tree/archive/v1.0.0-beta) |
+| `v1.0.0-beta.2` | 2015-12-06 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/matpompili-flarum-imgur-upload/tree/archive/v1.0.0-beta.2) |
+| `v1.0.0-beta.3` | 2015-12-08 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/matpompili-flarum-imgur-upload/tree/archive/v1.0.0-beta.3) |
+| `v1.0.0-beta.4` | 2015-12-09 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/matpompili-flarum-imgur-upload/tree/archive/v1.0.0-beta.4) |
+| `v1.0.0-beta.5` | 2015-12-16 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/matpompili-flarum-imgur-upload/tree/archive/v1.0.0-beta.5) |
 
 Catalog entry: [packages/matpompili-flarum-imgur-upload.json](https://github.com/flarchive/archive-index/blob/main/packages/matpompili-flarum-imgur-upload.json)
 
